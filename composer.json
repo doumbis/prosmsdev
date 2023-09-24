@@ -1,0 +1,8 @@
+{
+    "name": "doumbis/prosmsdevtool",
+    "autoload": {
+        "psr-4": {
+            "Prosms\\": "src/"
+        }
+    }
+}
